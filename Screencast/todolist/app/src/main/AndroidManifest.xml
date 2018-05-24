@@ -17,10 +17,11 @@
 			</intent-filter>
 		</activity>
 		<provider
-			android:name=".data.TodoListProvid
+			android:name=".data.TodoListProvider"
 			android:authorities="edu.galileo.todolist"
 			android:exported="false"
-			android:syncable="true"/>
+			android:syncable="true">
+		</provider>
 		<service
 			android:name=".service.TodoListService"
 			android:exported="false"/>

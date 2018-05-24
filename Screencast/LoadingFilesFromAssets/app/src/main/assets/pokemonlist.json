@@ -1,0 +1,50 @@
+[
+	{
+		"name": "Bulbasaur",
+		"type": "grass"
+	},
+	{
+		"name": "Ivysaur",
+		"type": "grass"
+	},
+	{
+		"name": "Venusaur",
+		"type": "grass"
+	},
+	{
+		"name": "Charmander",
+		"type": "fire"
+	},
+	{
+		"name": "Charmeleon",
+		"type": "fire"
+	},
+	{
+		"name": "Charizard",
+		"type": "fire"
+	},
+	{
+		"name": "Squirtle",
+		"type": "water"
+	},
+	{
+		"name": "Wartortle",
+		"type": "water"
+	},
+	{
+		"name": "Blastoise",
+		"type": "water"
+	},
+	{
+		"name": "Caterpie",
+		"type": "bug"
+	},
+	{
+		"name": "Metapod",
+		"type": "bug"
+	},
+	{
+		"name": "Butterfree",
+		"type": "bug"
+	}
+]

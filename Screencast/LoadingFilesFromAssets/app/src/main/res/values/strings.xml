@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LoadingFilesFromAssets</string>
+    <string name="pokemon_type_icon">Pokemon type icon</string>
+</resources>
